@@ -1,17 +1,11 @@
 ---
 layout: post
-title:  "Bacoms are delicious"
-date:   2016-08-07
+title:  "Thanks to the Wonderful People at Progressive Insurance"
+date:   2020-05-05
 ---
+This summer I've had the great experience of working as a software engineering intern for Progressive Insurance, working on a team building a quoting application for small business insurance. I got to work with the latest technologies and was given the freedom to exercise my problem-solving skills to improve the team's application - in an internship, what more can you ask for? Progressive likes to tout their company culture, and having spent a summer with them, their bragging is clearly earned. This is a company that cares about its employees, their personal development, and their work-life balance.
 
-Lorem ipsizzle funky fresh i'm in the shizzle boom shackalack, consectetizzle adipiscing my shizz. Nullizzle sapien velizzle, dang volutpat, shiznit quizzle, gravida ass, rizzle.
+The video shared <a href="https://lnkd.in/ebnQQik">here</a> is from a promotion campaign centered around National Intern Day, in which a few interns were selected to talk about their experiences. I was specifically asked to discuss how my experience at Progressive is shaping my future.
 
-```html
-<div class="mb-1">
-  test
-</div>
-```
-
-Lorem ipsizzle funky fresh i'm in the shizzle boom shackalack, consectetizzle adipiscing my shizz. Nullizzle sapien velizzle, dang volutpat, shiznit quizzle, gravida ass, rizzle. Pot get down get down tortor. Sed erizzle. Black go to hizzle dolizzle dapibizzle turpis fo shizzle my nizzle yo. Maurizzle pellentesque nibh et check it out. Bow wow wow check it out tortizzle. Pellentesque for sure rhoncizzle bow wow wow. In owned habitasse brizzle dictumst. Nizzle dapibizzle. Curabitizzle tellizzle ghetto, pretium for sure, fizzle go to hizzle, eleifend izzle, nunc. Dope suscipizzle. Integizzle boom shackalack velit ass purus.
-
-Lorem ipsizzle funky fresh i'm in the shizzle boom shackalack, consectetizzle adipiscing my shizz. Nullizzle sapien velizzle, dang volutpat, shiznit quizzle, gravida ass, rizzle. Pot get down get down tortor. Sed erizzle. Black go to hizzle dolizzle dapibizzle turpis fo shizzle my nizzle yo. Maurizzle pellentesque nibh et check it out. Bow wow wow check it out tortizzle. Pellentesque for sure rhoncizzle bow wow wow. In owned habitasse brizzle dictumst. Nizzle dapibizzle. Curabitizzle tellizzle ghetto, pretium for sure, fizzle go to hizzle, eleifend izzle, nunc. Dope suscipizzle. Integizzle boom shackalack velit ass purus.
+And now, a few well-deserved thank-you's:
+Thanks to my manager, Deron Sohngen, my associate PM Travis Huth, my mentor Jim Alexander, my resource manager Jacob Koehler, the IT Internship program leads Jane Shaw and Eugene Kenyo, and the IT college recruiting team, especially Aimee Carcioppolo and Lindsey Hojnowski, for coming together to make my experience all that it was!
