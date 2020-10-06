@@ -7,8 +7,8 @@ permalink: /resume/
 Seeking software engineering internship in May – August 2021 at a company where skills & experience in cloud computing, web and mobile design, and full-stack web API development are needed to build high-quality, efficient software solutions.
 
 # Industry and Work Experience:
-#### Enterprise Data Solutions, Inc. 
-### Junior Full-Stack Developer, June 2017 - August 2018
+### Enterprise Data Solutions, Inc. 
+## Junior Full-Stack Developer, June 2017 - August 2018
 * Utilized Agile and Scrum methodologies to work together with 5-man development team
 * Organized and prioritized development tasks and tracked team progress
 * Worked on EDSI’s Digital Academy online learning platform
