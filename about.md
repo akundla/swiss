@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+Seeking software engineering internship in May – August 2021 at a company where skills & experience in cloud computing, web and mobile design, and full-stack web API development are needed to build high-quality, efficient software solutions.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+# Industry and Work Experience:
+#### Enterprise Data Solutions, Inc. 
+### Junior Full-Stack Developer, June 2017 - August 2018
+* Utilized Agile and Scrum methodologies to work together with 5-man development team
+* Organized and prioritized development tasks and tracked team progress
+* Worked on EDSI’s Digital Academy online learning platform
+** Designed and created web pages with AngularJS, ASP.NET web APIs, SQL database queries, and database tables
+* Designed, Developed, and built the Digital Academy Mobile App to connect parents to their children’s education
+** Interviewed clients to understand key project functionality and needs of users
+** Successfully launched and released app in mid-August 2018 for use for the Diocese of Cleveland School system
+* Taught summer Introduction to Computer Science course to high school sophomores through the company
 
 ## Themes
 
